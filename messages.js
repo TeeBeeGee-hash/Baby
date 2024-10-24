@@ -1,7 +1,7 @@
-const crushName = "Thando";
+const crushName = "Mandy";
 
 const htmlMessages = [
-  `Happy Valentine's Day, <span id="crushName">${crushName}</span>! Just wanted to
+  `Hey babe, My <span id="crushName">${crushName}</span>! Just wanted to
           say you make my heart skip a beat every time I see you. 😊💕`,
   "Hope you've been smiling",
   "And looking fire as always🔥",

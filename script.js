@@ -26,7 +26,7 @@ function showNextMessage() {
   } else {
     localStorage.setItem("viewCount", 1);
     const clickThroughUrl =
-      "whatsapp://send?phone=27685036260&text=Hi good looking, delete this and type your reply here";
+      "whatsapp://send?phone=27685036260&text=Hi good looking, delete this and type your reply here. Love you!";
     window.location.href = clickThroughUrl;
   }
 
